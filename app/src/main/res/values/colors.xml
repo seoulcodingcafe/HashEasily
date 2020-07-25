@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cyanea_primary_reference">#FF003E19</color>
+    <color name="cyanea_primary_dark_reference">#FF003415</color>
+    <color name="cyanea_primary_light_reference">#FF265A3B</color>
+    <color name="cyanea_accent_reference">#FF028C6A</color>
+    <color name="cyanea_accent_dark_reference">#FF01775A</color>
+    <color name="cyanea_accent_light_reference">#FF279D80</color>
+    <color name="cyanea_background_reference">#FFD1EDE1</color>
+    <color name="cyanea_background_dark_reference">#FFD4D4D4</color>
+    <color name="cyanea_background_light_reference">#FFD7EFE5</color>
+</resources>

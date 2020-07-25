@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="NoActionBar" parent="Theme.Cyanea.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppBarOverlay" parent="Theme.Cyanea.Light.DarkActionBar" />
+
+    <style name="PopupOverlay" parent="Theme.Cyanea.Light.DarkActionBar" />
+</resources>

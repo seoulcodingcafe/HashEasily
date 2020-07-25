@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference
+        app:key="commandabout"
+        app:title="@string/about" />
+    <Preference
+        app:key="commandlicense"
+        app:title="@string/license" />
+    <Preference
+        app:key="commandversion"
+        app:title="@string/version" />
+</PreferenceScreen>

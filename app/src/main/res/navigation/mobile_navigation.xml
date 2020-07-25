@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_hash">
+
+    <fragment
+        android:id="@+id/navigation_hash"
+        android:name="io.github.hasheazy.ui.hash.HashFragment"
+        android:label="@string/results"
+        tools:layout="@layout/fragment_hash" />
+
+    <fragment
+        android:id="@+id/navigation_configuration"
+        android:name="io.github.hasheazy.ui.configuration.ConfigurationFragment"
+        android:label="@string/configuration"
+        tools:layout="@layout/fragment_configuration" />
+
+
+    <fragment
+        android:id="@+id/navigation_about"
+        android:name="io.github.hasheazy.ui.about.AboutFragment"
+        android:label="@string/about"
+        tools:layout="@layout/fragment_about" />
+</navigation>
